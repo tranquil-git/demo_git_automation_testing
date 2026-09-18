@@ -1,4 +1,6 @@
-SeleniumFramework/
+## Project Structure
+```
+demo_git_automation_testing/
 ├── src/main/java/
 │   ├── Base/
 │   │   ├── BasePage.java
@@ -22,3 +24,4 @@ SeleniumFramework/
 └── src/test/resources/
     ├── log4j2.xml
     └── regression.xml
+```
