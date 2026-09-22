@@ -14,7 +14,10 @@ SeleniumFramework/
 │ ├── drivers/
 │ │ ├── DriverFactory.java
 │ │ ├── DriverManager.java
-│ │ └── ChromeDriverManager.java
+│ │ ├── ChromeDriverManager.java
+│ │ ├── EdgeDriverManager.java
+│ │ ├── FirefoxDriverManager.java
+│ │ └── SafariDriverManager.java
 │ └── page/
 │ └── LoginPage.java
 ├── src/test/java/
